@@ -37,7 +37,7 @@ Requisito: usar dados reais de um portal de dados abertos.
 ## Estrutura
 
 - `src/carregar.py`: lê os JSON, filtra e gera intervalos por dia.
-- `src/guloso.py`: interval partitioning com heap; devolve nº de portões e a
+- `src/absioso.py`: interval partitioning com heap; devolve nº de portões e a
   alocação voo -> portão.
 - `src/analise.py`: roda previsto vs real × tempos de solo, salva CSV em `results/`.
 - `src/graficos.py`: gráficos (matplotlib) em `results/`.
