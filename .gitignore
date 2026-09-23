@@ -1,0 +1,14 @@
+# Dados brutos da ANAC (~100 MB), baixar do portal de dados abertos
+data/
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS
+.DS_Store
