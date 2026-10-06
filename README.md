@@ -1,5 +1,11 @@
 # G46_Greed_PA-26.2
 
+## Aluno
+
+| Matrícula | Aluno |
+| :-------: | :---: |
+| 222021826 | Victor Leandro Rocha de Assis |
+
 Trabalho de **Projeto de Algoritmos (UnB, 2026.2)** sobre algoritmos gulosos.
 
 **Pergunta:** quantos portões, no mínimo, o Aeroporto de Brasília (SBBR)
